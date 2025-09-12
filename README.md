@@ -1,6 +1,6 @@
 <div align="center">
 
-# CSS Tricks 🎶
+# CSS Tricks ✨
 
 Small, focused CSS micro-experiments – each folder is a self‑contained demo exploring a single visual idea or technique.
 
@@ -14,8 +14,8 @@ Small, focused CSS micro-experiments – each folder is a self‑contained demo 
 
 | Demo | Link | What it Shows |
 |------|------|---------------|
-| 1Pixel | https://juanpablodesigner.github.io/CSS-Tricks/CSS-1Pixel/ | Sub‑pixel crisp lines / hairline technique |
-| Gradient Color Animation | https://juanpablodesigner.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/ | Animated multi‑stop gradient background |
+| 1Pixel | [Click here](https://juanpablodesigner.github.io/CSS-Tricks/CSS-1Pixel/) | Sub‑pixel crisp lines / hairline technique |
+| Gradient Color Animation | [Click here](https://juanpablodesigner.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/) | Animated multi‑stop gradient background |
 
 > Each demo is intentionally minimal so you can focus on one concept at a time.
 
@@ -118,7 +118,7 @@ This project is released under the MIT License – see `LICENSE` for full text. 
 
 ## ✍️ Author
 
-Made with 💜 by **Juan Pablo**
+Made with 💜 by **Juan Pablo**.
 
 ## 📜 Quote
 
