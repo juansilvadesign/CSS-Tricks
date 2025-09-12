@@ -18,7 +18,7 @@ You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tric
 <br>
 
 <p align="center">
-  <img alt="project preview" src="https://i.ibb.co/d45f2Yfv/no-bg-1.webp" width="50%">
+  <img alt="project preview" src="https://i.ibb.co/d45f2Yfv/no-bg-1.webp" width="25%">
 </p>
 
 [//]: # (https://github.com/JuanPabloDesigner/images-storage/assets/113949476/6a79cb70-400a-40aa-bcbd-3446450c3e19)
