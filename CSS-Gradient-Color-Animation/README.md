@@ -1,8 +1,8 @@
-<h1 align="center"> My YouTube Playlists </h1>
+<h1 align="center"> CSS Tricks </h1>
 
 <p align="center">
-All my YouTube playlists are organized and styled in one link. <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tricks/CSS%20Gradiant%20Color%20Animation/">clicking here.</a>
+CSS Gradient Color Animation <br/>
+You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/">clicking here.</a>
 </p>
 
 <p align="center">
@@ -18,8 +18,10 @@ You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tric
 <br>
 
 <p align="center">
-  <img alt="project preview" src="https://github.com/JuanPabloDesigner/images-storage/assets/113949476/bee1bf56-9872-41fc-b305-5d244d5f27bc" width="100%">
+  <img alt="project preview" src="https://i.ibb.co/ycDVXtZm/no-bg-2.webp" width="100%">
 </p>
+
+[//]: # (https://github.com/JuanPabloDesigner/images-storage/assets/113949476/bee1bf56-9872-41fc-b305-5d244d5f27bc)
 
 ## 🚀 Techs
 
