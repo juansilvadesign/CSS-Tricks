@@ -14,8 +14,8 @@ Small, focused CSS micro-experiments – each folder is a self‑contained demo 
 
 | Demo | Link | What it Shows |
 |------|------|---------------|
-| 1Pixel | [Click here](https://juanpablodesigner.github.io/CSS-Tricks/CSS-1Pixel/) | Sub‑pixel crisp lines / hairline technique |
-| Gradient Color Animation | [Click here](https://juanpablodesigner.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/) | Animated multi‑stop gradient background |
+| 1Pixel | [Click here](https://juansilvadesign.github.io/CSS-Tricks/CSS-1Pixel/) | Sub‑pixel crisp lines / hairline technique |
+| Gradient Color Animation | [Click here](https://juansilvadesign.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/) | Animated multi‑stop gradient background |
 
 > Each demo is intentionally minimal so you can focus on one concept at a time.
 
@@ -62,7 +62,7 @@ You only need a browser. Clone and open any `index.html` file directly, or serve
 Windows PowerShell example:
 
 ```powershell
-git clone https://github.com/JuanPabloDesigner/CSS-Tricks.git
+git clone https://github.com/juansilvadesign/CSS-Tricks.git
 cd CSS-Tricks
 # Option A: Open a file directly
 start CSS-Gradient-Color-Animation/index.html

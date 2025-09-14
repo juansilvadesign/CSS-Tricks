@@ -2,7 +2,7 @@
 
 <p align="center">
 CSS Gradient Color Animation <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/">clicking here.</a>
+You can see the website by <a href="https://juansilvadesign.github.io/CSS-Tricks/CSS-Gradient-Color-Animation/">clicking here.</a>
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@ You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tric
 <br>
 
 <p align="center">
-  <img alt="project preview" src="https://i.ibb.co/ycDVXtZm/no-bg-2.webp" style="width:100%;max-width:324px;">
+  <img alt="project preview" src="https://i.ibb.co/ycDVXtZm/no-bg-2.webp" width="324px">
 </p>
 
-[//]: # (https://github.com/JuanPabloDesigner/images-storage/assets/113949476/bee1bf56-9872-41fc-b305-5d244d5f27bc)
+[//]: # (https://github.com/juansilvadesign/images-storage/assets/113949476/bee1bf56-9872-41fc-b305-5d244d5f27bc)
 
 ## 🚀 Techs
 
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 This Project are CSS Tricks inspired by Kevin Powell's YouTube channel. I used the from his videos just to practice my coding skills.
 
-- [Access the finished project. Online.](https://juanpablodesigner.github.io/CSS-Tricks/CSS%20Gradiant%20Color%20Animation/)
+- [Access the finished project. Online.](https://juansilvadesign.github.io/CSS-Tricks/CSS%20Gradiant%20Color%20Animation/)
 
 ## :memo: Licence
 

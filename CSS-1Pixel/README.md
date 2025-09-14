@@ -2,7 +2,7 @@
 
 <p align="center">
 CSS 1 Pixel border hover <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tricks/CSS-1Pixel/">clicking here.</a>
+You can see the website by <a href="https://juansilvadesign.github.io/CSS-Tricks/CSS-1Pixel/">clicking here.</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ You can see the website by <a href="https://juanpablodesigner.github.io/CSS-Tric
   <img alt="project preview" src="https://i.ibb.co/d45f2Yfv/no-bg-1.webp" width="324px">
 </p>
 
-[//]: # (https://github.com/JuanPabloDesigner/images-storage/assets/113949476/6a79cb70-400a-40aa-bcbd-3446450c3e19)
+[//]: # (https://github.com/juansilvadesign/images-storage/assets/113949476/6a79cb70-400a-40aa-bcbd-3446450c3e19)
 
 ## 🚀 Techs
 
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 This Project are CSS Tricks inspired by Kevin Powell's YouTube channel. I used the from his videos just to practice my coding skills.
 
-- [Access the finished project. Online.](https://juanpablodesigner.github.io/CSS-Tricks/CSS-1Pixel/)
+- [Access the finished project. Online.](https://juansilvadesign.github.io/CSS-Tricks/CSS-1Pixel/)
 
 ## :memo: Licence
 
